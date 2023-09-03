@@ -6,7 +6,6 @@ Digital Craftsman (developer/editor)
 
 As a developer, I thrive on turning ideas into functional, user-friendly software. My coding journey has taken me through various programming languages and technologies, and I love the thrill of solving complex problems through elegant solutions. Whether it's web development, mobile apps, or tinkering with emerging tech, I'm always up for a coding adventure.
 
-Skills and Technologies: JavaScript, Python, HTML/CSS, React, Node.js, SQL, Git, and more. (note: I am still learning)
 
 ✍️ Editor:
 
