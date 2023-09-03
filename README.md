@@ -13,5 +13,5 @@
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-   <p align="left">
-    <a href="https://github.com/da2space/tictactoe"><img width="278" src="https://github.com/da2space/tictactoe&repo=tictactoe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://github.com/da2space/tictactoe&repo=tictactoe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
