@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70C0C&center=true&vCenter=true&width=435&lines=Web+and+App+developer;Experienced+editor;Always+learning+things)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&repeat=false&width=435&lines=da2space" alt="Typing SVG" /></a>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
